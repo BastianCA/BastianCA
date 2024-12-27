@@ -6,15 +6,22 @@
 
 
 ## Stack
-- ⭐ Github ⭐  - tailwind
-- 📲 Ionic      - 
-- Angular       -
-- React         -
-- Javascript    -
-- Typescript    -
-
+- ⭐ Github ⭐  
+- 📲 Ionic      
+- Angular       
+- React         
+- Javascript    
+- Typescript    
+- Tailwind
+- Html
+- CSS
+- Node
+- Next
+- Docker
+- Aws
+- MySQL
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,docker,react,javascript,typescript,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,angular,docker,react,javascript,typescript,tailwind,html,css,nodejs,nextjs,mysql" />
   </a>
 </p>
