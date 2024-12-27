@@ -20,8 +20,10 @@
 - Docker
 - Aws
 - MySQL
+- Figma
+- Spring boot
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,docker,react,javascript,typescript,tailwind,html,css,nodejs,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,angular,docker,react,javascript,typescript,tailwind,html,css,nodejs,nextjs,mysql,spring,figma" />
   </a>
 </p>
