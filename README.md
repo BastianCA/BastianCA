@@ -5,7 +5,7 @@
 
 
 
-## Sobre mi
+## Stack
 
 - ⭐ Github ⭐ 
 - 📲 Ionic developer
